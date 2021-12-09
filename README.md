@@ -1,5 +1,4 @@
 # teohook
-low cpu growtopia
 
 TeoDocs forked from dartZXC
 
