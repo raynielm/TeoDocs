@@ -2,9 +2,8 @@
 
 TeoDocs forked from dartZXC
 
-Discord: Rayniel#2423
+Discord: rayy#5664. my old one got banned
 
-Asakin discord server: https://discord.gg/GtkEGqFb3f
 
 ## teohook documentation
 * [Structs](Structs.md)
