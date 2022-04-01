@@ -2,7 +2,7 @@
 
 TeoDocs forked from dartZXC
 
-Discord: rayy#5664. my old one got banned
+Discord: Rayy#7061. my old one got banned
 
 
 ## teohook documentation
